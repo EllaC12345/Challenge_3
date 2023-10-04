@@ -1,0 +1,1 @@
+('-----Election Results:-----', {'Total_votes': 369711, 'Charles Casper Stockham': '23.05% or (85213) votes', 'Raymon Anthony Doane': '3.14% or (11606) votes', 'Diana DeGette': '73.81% or 272892 votes', 'Winner': 'Diana DeGette'})
